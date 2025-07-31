@@ -5,7 +5,7 @@ A simple Python module to greet users by name.
 ## Installation
 
 ```bash
-pip install git+https://github.com/YOUR_USERNAME/sagreet.git
+pip install git+https://github.com/SanskarYerawar-official/sagreet
 ```
 
 ## Usage
